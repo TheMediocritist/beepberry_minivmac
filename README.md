@@ -1,8 +1,8 @@
 # Mini-vMac for Beepberry
 
 Requires: 
-    * SDL2
-    * [snag](https://github.com/TheMediocritist/snag) or similar tool to copy accellerated framebuffer to Sharp Memory LCD framebuffer 
+* SDL2 (or replace '-api sd2' in step 3 with alternative)
+* [snag](https://github.com/TheMediocritist/snag) or similar tool to copy accellerated framebuffer to Sharp Memory LCD framebuffer 
 
 ### 1. Download source code from https://www.gryphel.com/c/minivmac/download.html
 ```
